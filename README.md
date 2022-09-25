@@ -2,8 +2,7 @@
 This is a homepage for a mock company called Horiseon
 - Live URL: https://samezad27.github.io/hw-1-code-refactoring-/
 - Git URL: https://github.com/samezad27/hw-1-code-refactoring-
-- Screenshot: [![Horiseon homepage]](https://ibb.co/r05zHdB)
-
+- Screenshot: [![Horiseon homepage]](https://i.ibb.co/C8VYQPj/Screen-Shot-2022-09-25-at-3-38-03-PM.png)
 ## 01 HTML, CSS, and Git: Code Refactor
 
 - Created a logical flow that follows HTML semantic guidelines
