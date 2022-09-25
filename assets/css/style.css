@@ -120,7 +120,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* I'm not sure if I really need this code since I'm not using the footer*/
 .footer {
     padding: 30px;
     clear: both;
